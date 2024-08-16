@@ -1,0 +1,6 @@
+train: C:\Users\rajes\Downloads\Dataset\train\images
+val: C:\Users\rajes\Downloads\Dataset\valid
+test: C:\Users\rajes\Downloads\Dataset\test  
+
+nc: 1 
+names: ['licence'] 

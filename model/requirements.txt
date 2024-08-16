@@ -1,0 +1,2 @@
+opencv-python-headless==4.8.0.74  # Includes cv2 for OpenCV
+pytesseract==0.3.10
